@@ -12,7 +12,7 @@
 		"dotenv": "^6.0.0",
 		"express": "^5.0.0-alpha.8",
 		"mime": "^1.4.1",
-		"mongodb": "^2.2.5"
+		"mongodb": "^3.1.13"
 	},
 	"engines": {
 		"node": "4.7.x"
