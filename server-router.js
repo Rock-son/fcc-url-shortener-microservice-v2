@@ -2,7 +2,7 @@
 
 const DNS = require("dns");
 const MONGO_CLIENT = require("mongodb").MongoClient;
-const DB_URL = process.env.MONGOLAB_URI;
+const DB_URL = process.env.DB;
 const COLLECTION = "url_shortener";
 const ROOT_URL = "https://fcc-urlshortener-project.herokuapp.com";
 
